@@ -1,4 +1,4 @@
-package com.example.learnjunit;
+package com.example.learnjunit.model;
 
 public class Calculator {
     public int multiply(int a, int b) {

@@ -1,6 +1,6 @@
 package com.example.learnjunit.a_overview;
 
-import com.example.learnjunit.Calculator;
+import com.example.learnjunit.model.Calculator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.RepeatedTest;
